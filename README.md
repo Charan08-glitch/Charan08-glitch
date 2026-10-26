@@ -56,7 +56,6 @@ Set up a virtual cybersecurity lab using Kali Linux and Oracle VirtualBox.
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tejavath-charan0606/)
-- 🌐 [Portfolio Website](https://charan08-glitch.github.io/portfolio/)
 - 🐙 [GitHub Repositories](https://github.com/Charan08-glitch)
 
 📫 I'm open to opportunities where I can contribute, keep learning, and grow professionally.
